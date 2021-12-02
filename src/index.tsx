@@ -5,7 +5,7 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import { coreDefaultTheme } from '@plane-js/theme';
 import { ThemeProvider } from "styled-components";
-import { CssBaseline } from "@kite-js/core";
+import { CssBaseline } from "@plane-js/core";
 
 const theme = {
     ...coreDefaultTheme,
